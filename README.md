@@ -2,15 +2,15 @@
 
 Interplanetary File System First Person Shooter is a completely decentralized game that can be played on Earth and/or Mars.
 
-## Made with Unity
+## Made with [Unity](https://unity.com/)
 
 ![Official_unity_logo](https://user-images.githubusercontent.com/19412160/86810240-b8471300-c04a-11ea-86c9-bb17270653c7.png)
 
-## Hosted on IPFS.io
+## Hosted on [IPFS](https://ipfs.io/)
 
 ![IPFS_logo](https://user-images.githubusercontent.com/19412160/86810340-cbf27980-c04a-11ea-9104-61a7faf08896.png)
 
-## Deployed with Fleek.io
+## Deployed with [Fleek](https://fleek.co/)
 
 ![FleekForLight](https://user-images.githubusercontent.com/19412160/86810462-ed536580-c04a-11ea-8300-62b698aae20e.png)
 
