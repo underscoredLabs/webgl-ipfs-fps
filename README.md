@@ -1,1 +1,1 @@
-# ipfs-fps-game
+# WebGL IPFS FPS
