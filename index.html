@@ -9,15 +9,12 @@
     <script src="TemplateData/UnityProgress.js"></script>
     <script src="Build/UnityLoader.js"></script>
     <script>
-      var unityInstance = UnityLoader.instantiate("unityContainer", "Build/public.json");
+      var unityInstance = UnityLoader.instantiate("unityContainer", "Build/fff.json");
     </script>
   </head>
   <body>
     <div class="webgl-content">
       <div id="unityContainer"></div>
-      <div class="footer">
-        <div class="fullscreen" onclick="unityInstance.SetFullscreen(1)"></div>
-      </div>
     </div>
   </body>
 </html>
