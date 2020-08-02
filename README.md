@@ -7,16 +7,21 @@ Interplanetary File System First Person Shooter is a completely decentralized ga
 
 ## Made with [Unity](https://unity.com/)
 
-![Official_unity_logo](https://user-images.githubusercontent.com/19412160/86810240-b8471300-c04a-11ea-86c9-bb17270653c7.png)
+![](https://user-images.githubusercontent.com/19412160/86810240-b8471300-c04a-11ea-86c9-bb17270653c7.png)
 
 ## Hosted on [IPFS](https://ipfs.io/)
 
-![IPFS_logo](https://user-images.githubusercontent.com/19412160/86810340-cbf27980-c04a-11ea-9104-61a7faf08896.png)
+![](https://user-images.githubusercontent.com/19412160/86810340-cbf27980-c04a-11ea-9104-61a7faf08896.png)
 
 ## Deployed with [Fleek](https://fleek.co/)
 
-![FleekForLight](https://user-images.githubusercontent.com/19412160/86810462-ed536580-c04a-11ea-8300-62b698aae20e.png)
+![](https://user-images.githubusercontent.com/19412160/86810462-ed536580-c04a-11ea-8300-62b698aae20e.png)
 
 ## Found on [Unstoppable Domains](https://unstoppabledomains.com/)
 
-![download](https://user-images.githubusercontent.com/19412160/86810193-ab2a2400-c04a-11ea-9adf-29c6a476909e.png)
+![](https://user-images.githubusercontent.com/19412160/86810193-ab2a2400-c04a-11ea-9adf-29c6a476909e.png)
+
+## Stored in [Pinata](https://pinata.cloud/)
+
+![](https://user-images.githubusercontent.com/19412160/89131007-d5e78b00-d4d7-11ea-9ad0-3712cca4335d.png)
+
