@@ -21,7 +21,7 @@ Interplanetary File System First Person Shooter is a completely decentralized ga
 
 ![](https://user-images.githubusercontent.com/19412160/86810193-ab2a2400-c04a-11ea-9adf-29c6a476909e.png)
 
-## Stored in [Pinata](https://pinata.cloud/)
+## Pinned ina [Pinata](https://pinata.cloud/)
 
 ![](https://user-images.githubusercontent.com/19412160/89131007-d5e78b00-d4d7-11ea-9ad0-3712cca4335d.png)
 
