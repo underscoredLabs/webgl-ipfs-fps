@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "IPFS-FPS",
+"productVersion": "1.1.2-preview.1",
+"dataUrl": "ca9bb41b85740a9e200e4834202b8266.unityweb",
+"wasmCodeUrl": "3b51ea7ad9f0d22c045cd255b4857052.unityweb",
+"wasmFrameworkUrl": "61266456de268de0c430c729ed545b5c.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.4f1"
+}
